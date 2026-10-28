@@ -1,0 +1,60 @@
+{
+  "FyreDeft": {
+    "password": "Krish@2013",
+    "chatHistory": [
+      {
+        "prompt": "yo",
+        "response": "What's up?"
+      },
+      {
+        "prompt": "hello",
+        "response": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"
+      },
+      {
+        "prompt": "hello bro",
+        "response": "What's up?"
+      },
+      {
+        "prompt": "adsd",
+        "response": "It looks like you just entered some random characters. How can I assist you today? Would you like to ask a question, discuss a topic, or play a game? I'm here to help!"
+      },
+      {
+        "prompt": "dasd",
+        "response": "It looks like you might have typed a random string of characters. Is there something I can help you with?"
+      },
+      {
+        "prompt": "a",
+        "response": "It looks like you just sent a single letter! Would you like to start a sentence or ask a question? I'm here to help!"
+      },
+      {
+        "prompt": "yo man wass up",
+        "response": "Not much, just chillin' in the digital realm. What's good?"
+      },
+      {
+        "prompt": "bhai ky a haal",
+        "response": "Bhai, main theek hoon! Aap kaise hain?"
+      },
+      {
+        "prompt": "badhiya bro",
+        "response": "badhiya to you too, bro!"
+      }
+    ]
+  },
+  "Mohit Pant": {
+    "password": "mohit2013",
+    "chatHistory": [
+      {
+        "prompt": "hello\\",
+        "response": "Hello! How can I assist you today?"
+      },
+      {
+        "prompt": "bhai",
+        "response": "Kya main kuch help kar sakta hoon?"
+      },
+      {
+        "prompt": "yo bro",
+        "response": "What's up bro?"
+      }
+    ]
+  }
+}
